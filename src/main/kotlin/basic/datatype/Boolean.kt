@@ -1,4 +1,4 @@
-package datatype
+package basic.datatype
 
 fun main() {
     var bolTrue: Boolean = true;

@@ -1,4 +1,4 @@
-package operator
+package basic.operator
 
 fun main() {
     val plus = 10 + 2

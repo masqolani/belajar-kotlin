@@ -29,7 +29,7 @@ fun main() {
         !in nilaiLulus -> println("ANDA TIDAK LULUS")
     }
 
-    // when is untuk cek type data or something
+    // when is untuk cek type app.data or something
     val name = "Asqo"
     when (name) {
         is String -> println("Name is String")

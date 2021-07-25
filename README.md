@@ -3,10 +3,10 @@ Learning kotlin for beginner.
 
 # Feature
 - Data type 
-- Function : basic, parameter, returning function, single function and etc.
+- Function : basic, parameter, returning basic.function, single basic.function and etc.
 - Sample looping
-- Sampel operator
+- Sampel basic.operator
 
 # Use
-- Java 8 
+- Java 8
 - Maven

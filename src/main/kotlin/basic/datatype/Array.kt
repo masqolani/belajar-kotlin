@@ -1,4 +1,4 @@
-package datatype
+package basic.datatype
 
 fun main() {
     val families: Array<String> = arrayOf("Asqo", "Sumay", "Althaf", "Muadz")

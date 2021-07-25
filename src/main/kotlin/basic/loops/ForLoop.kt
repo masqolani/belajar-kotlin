@@ -1,4 +1,4 @@
-package loops
+package basic.loops
 
 fun main() {
     val names = arrayOf("Asqo", "Sumay", "Althaf", "Muadz")

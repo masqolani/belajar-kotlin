@@ -1,4 +1,4 @@
-package function
+package basic.function
 
 fun main() {
     helloWorld()

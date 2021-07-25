@@ -1,4 +1,4 @@
-package function
+package basic.function
 
 fun main() {
     println("Total is ${calculateTotal(1,2,3,4)}")

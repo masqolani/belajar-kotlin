@@ -1,4 +1,4 @@
-package datatype
+package basic.datatype
 
 fun main() {
     val range = 1..10

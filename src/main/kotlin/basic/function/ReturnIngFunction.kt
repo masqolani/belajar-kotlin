@@ -1,4 +1,4 @@
-package function
+package basic.function
 
 fun main() {
     var resultSum: Int = sum(1, 2)

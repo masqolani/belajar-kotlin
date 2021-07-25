@@ -1,7 +1,7 @@
 import java.util.*
 
 fun main() {
-    // this example not initial with data type
+    // this example not initial with app.data type
     // immutable
     val firstName = "Asqo"
     val age = 26

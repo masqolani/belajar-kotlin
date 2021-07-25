@@ -1,7 +1,7 @@
-package function
+package basic.function
 
 fun main() {
-    println("Single expression function ${double(2)}")
+    println("Single expression basic.function ${double(2)}")
     say("Asqolani")
 }
 
